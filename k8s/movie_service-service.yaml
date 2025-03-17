@@ -6,7 +6,7 @@ metadata:
     kompose.version: 1.35.0 (9532ceef3)
   labels:
     io.kompose.service: movie-service
-  name: movie-service
+  name: movie_service
 spec:
   ports:
     - name: "8001"
